@@ -1,0 +1,4 @@
+baseURL = 'https://tutchilk.github.io/'
+languageCode = 'en-us'
+title = 'Stan Avirt'
+theme = 'PaperMod'
