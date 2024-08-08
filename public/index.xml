@@ -2,11 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Stan Avirt</title>
-    <link>https://tutchilk.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Stan Avirt</description>
     <generator>Hugo -- 0.131.0</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://tutchilk.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 07 Aug 2024 21:22:57 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Привет</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Wed, 07 Aug 2024 21:22:57 +0200</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.
+Visit the Hugo website!</description>
+    </item>
+    <item>
+      <title>Привет 2</title>
+      <link>http://localhost:1313/posts/my-first-post2/</link>
+      <pubDate>Wed, 07 Aug 2024 21:22:57 +0200</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post2/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.
+Visit the Hugo website!</description>
+    </item>
+    <item>
+      <title>Метаморфозы позиции Ильи Яшина: Человек в поисках ответов</title>
+      <link>http://localhost:1313/posts/yashin-2/</link>
+      <pubDate>Sun, 04 Aug 2024 21:22:57 +0200</pubDate>
+      <guid>http://localhost:1313/posts/yashin-2/</guid>
+      <description>Представьте себе: вы только что вышли из тюрьмы, где провели два года за антивоенную позицию. Мир изменился, а война все еще идет. Что бы вы сказали? Илья Яшин оказался именно в такой ситуации, и его слова вызвали бурю эмоций.
+Еще два дня назад Яшин, словно глоток свежего воздуха, призывал к переговорам и прекращению огня. Его слова о &amp;ldquo;тупиковой ситуации на фронте&amp;rdquo; звучали как голос разума в море безумия. Но уже сегодня он, словно разбуженный лев, рычит: &amp;ldquo;Ни пяди украинской земли Путину!</description>
+    </item>
   </channel>
 </rss>
