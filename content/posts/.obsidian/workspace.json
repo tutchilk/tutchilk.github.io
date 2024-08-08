@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ff3cf5e0163e37fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Yashin-1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3e2d03366db0b7c0",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yashin-2.md",
+                "file": "Yashin-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yashin-2.md",
+                "file": "Yashin-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yashin-2.md"
+                "file": "Yashin-1.md"
               }
             }
           }
@@ -147,9 +161,10 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "c1de4ffa43e45453",
+  "active": "0ef2ba90b252e0c1",
   "lastOpenFiles": [
-    "my-first-post.md",
-    "Yashin-2.md"
+    "Yashin-2.md",
+    "Yashin-1.md",
+    "my-first-post.md"
   ]
 }
