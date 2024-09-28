@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "de3033901eaa84a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Khodorkovsky-1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Yashin-3.md",
+                "file": "Khodorkovsky-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Yashin-3.md",
+                "file": "Khodorkovsky-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Yashin-3.md"
+                "file": "Khodorkovsky-1.md"
               }
             }
           }
@@ -172,10 +184,14 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "182077247d278cf9",
+  "active": "de3033901eaa84a2",
   "lastOpenFiles": [
-    "Yashin-2.md",
+    "Untitled.md",
+    "Khodorkovsky-1.md",
+    "20240928151131.png",
+    "20240928145512.png",
     "Yashin-3.md",
+    "Yashin-2.md",
     "Yashin-1.md",
     "my-first-post.md"
   ]

@@ -2,35 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Stan Avirt</title>
-    <link>http://localhost:1313/</link>
+    <link>https://tutchilk.github.io/</link>
     <description>Recent content on Stan Avirt</description>
-    <generator>Hugo -- 0.131.0</generator>
+    <generator>Hugo -- 0.134.3</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Aug 2024 21:22:57 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Sep 2024 12:22:57 +0200</lastBuildDate>
+    <atom:link href="https://tutchilk.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Привет</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Wed, 07 Aug 2024 21:22:57 +0200</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.
-Visit the Hugo website!</description>
+      <title>Манипуляции и искажения: Критический анализ освещения интервью Михаила Ходорковского</title>
+      <link>https://tutchilk.github.io/posts/khodorkovsky-1/</link>
+      <pubDate>Sat, 28 Sep 2024 12:22:57 +0200</pubDate>
+      <guid>https://tutchilk.github.io/posts/khodorkovsky-1/</guid>
+      <description>&lt;p&gt;Недавно на сайте &amp;ldquo;Медузы&amp;rdquo; появился обзор интервью Михаила Ходорковского, которое он дал Александру Плющеву для Breakfast Show. Казалось бы, обычное дело – СМИ освещает беседу с известным политиком. Но, читая статью, я не мог отделаться от ощущения, что что-то здесь не так. Давайте вместе разберемся, в чем же дело.&lt;/p&gt;
+&lt;p&gt;Смирнов, например, неприкрыто иронизирует над кажущимся противоречием в позиции Ходорковского. &amp;ldquo;Диалектика&amp;rdquo; здесь явно используется саркастически, намекая на попытку совместить несовместимое, учитывая сам заголовок и характер статьи.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Привет 2</title>
-      <link>http://localhost:1313/posts/my-first-post2/</link>
-      <pubDate>Wed, 07 Aug 2024 21:22:57 +0200</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post2/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.
-Visit the Hugo website!</description>
+      <title>Илья Яшин в Берлине: Мягкие ответы на жёсткие вопросы</title>
+      <link>https://tutchilk.github.io/posts/yashin-3/</link>
+      <pubDate>Thu, 08 Aug 2024 12:22:57 +0200</pubDate>
+      <guid>https://tutchilk.github.io/posts/yashin-3/</guid>
+      <description>&lt;p&gt;Пока мы ждали громких заявлений в том духе, как это произошло в небольшом интервью на дожде, выступление Ильи Яшина в Берлине прозвучало как невнятный шёпот в бушующем океане политических страстей. Вместо того чтобы взорвать информационное пространство, Яшин предложил публике невразумительную кашу из благих намерений, лишённую той конкретики, которую так ждала аудитория.&lt;/p&gt;
+&lt;p&gt;Яшин, внезапно очутившийся в 2024 году из 2021-го, говорил о вещах, которые звучали бы уместно до начала полномасштабного вторжения в Украину. Его призывы к миру и объединению оппозиции, несомненно, благородны, но в контексте текущих событий они кажутся столь же эффективными, как попытка потушить лесной пожар пульверизатором с розовой водой.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Метаморфозы позиции Ильи Яшина: Человек в поисках ответов</title>
-      <link>http://localhost:1313/posts/yashin-2/</link>
-      <pubDate>Sun, 04 Aug 2024 21:22:57 +0200</pubDate>
-      <guid>http://localhost:1313/posts/yashin-2/</guid>
-      <description>Представьте себе: вы только что вышли из тюрьмы, где провели два года за антивоенную позицию. Мир изменился, а война все еще идет. Что бы вы сказали? Илья Яшин оказался именно в такой ситуации, и его слова вызвали бурю эмоций.
-Еще два дня назад Яшин, словно глоток свежего воздуха, призывал к переговорам и прекращению огня. Его слова о &amp;ldquo;тупиковой ситуации на фронте&amp;rdquo; звучали как голос разума в море безумия. Но уже сегодня он, словно разбуженный лев, рычит: &amp;ldquo;Ни пяди украинской земли Путину!</description>
+      <link>https://tutchilk.github.io/posts/yashin-2/</link>
+      <pubDate>Mon, 05 Aug 2024 21:22:57 +0200</pubDate>
+      <guid>https://tutchilk.github.io/posts/yashin-2/</guid>
+      <description>&lt;p&gt;Представьте себе: вы только что вышли из тюрьмы, где провели два года за антивоенную позицию. Мир изменился, а война все еще идет. Что бы вы сказали? Илья Яшин оказался именно в такой ситуации, и его слова вызвали бурю эмоций.&lt;/p&gt;
+&lt;p&gt;Еще два дня назад Яшин, словно глоток свежего воздуха, призывал к переговорам и прекращению огня. Его слова о &amp;ldquo;тупиковой ситуации на фронте&amp;rdquo; звучали как голос разума в море безумия. Но уже сегодня он, словно разбуженный лев, рычит: &amp;ldquo;Ни пяди украинской земли Путину!&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>В мутном болоте российской оппозиции в изгнании, разыгрывается очередной акт политического фарса.</title>
+      <link>https://tutchilk.github.io/posts/yashin-1/</link>
+      <pubDate>Fri, 02 Aug 2024 21:22:57 +0200</pubDate>
+      <guid>https://tutchilk.github.io/posts/yashin-1/</guid>
+      <description>&lt;p&gt;Очевидно, в этот фарс хотят втянуть нового героя — Илью Яшина, недавно вырвавшийся из цепких когтей Путина после долгого заключения. Его появление на сцене — не иллюзорно грозит всколыхнуть это затхлое болото, в котором уже давно квакают только самые жирные лягушки псевдооппозиционного движения.&lt;/p&gt;
+&lt;p&gt;Яшин возвращается в мир, который не просто изменился — он прогнил до основания. Оппозиция, когда-то гордо несущая знамя борьбы за свободу, теперь больше напоминает банду мелких преступников, торгующих идеалами по сходной цене. ФБК, некогда бывший маяк надежды — превратился в гнилушку, тускло мерцающую в темноте вильнюсских болот. Какая ирония судьбы — организация, созданная Навальным для борьбы с коррупцией, сама погрязла в скандалах, которые заставили бы покраснеть даже самых прожжённых кремлёвских чиновников!&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
