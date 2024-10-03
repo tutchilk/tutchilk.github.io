@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c3b5cb4114a11c47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quantum-politics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Khodorkovsky-1.md",
+                "file": "Quantum-politics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Khodorkovsky-1.md",
+                "file": "Quantum-politics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Khodorkovsky-1.md"
+                "file": "Quantum-politics.md"
               }
             }
           }
@@ -184,10 +196,11 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "de3033901eaa84a2",
+  "active": "c3b5cb4114a11c47",
   "lastOpenFiles": [
-    "Untitled.md",
     "Khodorkovsky-1.md",
+    "Quantum-politics.md",
+    "20241003133852.png",
     "20240928151131.png",
     "20240928145512.png",
     "Yashin-3.md",
