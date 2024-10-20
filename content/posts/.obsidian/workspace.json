@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "477bc32b3049a1da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Banksters.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quantum-politics.md",
+                "file": "Banksters.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Quantum-politics.md",
+                "file": "Banksters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quantum-politics.md"
+                "file": "Banksters.md"
               }
             }
           }
@@ -196,16 +208,17 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "c3b5cb4114a11c47",
+  "active": "477bc32b3049a1da",
   "lastOpenFiles": [
-    "Khodorkovsky-1.md",
+    "Yashin-1.md",
+    "Banksters.md",
     "Quantum-politics.md",
+    "Khodorkovsky-1.md",
     "20241003133852.png",
     "20240928151131.png",
     "20240928145512.png",
     "Yashin-3.md",
     "Yashin-2.md",
-    "Yashin-1.md",
     "my-first-post.md"
   ]
 }
