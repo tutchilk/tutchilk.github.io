@@ -16,7 +16,9 @@
                 "file": "Yashin-2.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Yashin-2"
             }
           },
           {
@@ -28,7 +30,9 @@
                 "file": "Yashin-1.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Yashin-1"
             }
           },
           {
@@ -40,7 +44,9 @@
                 "file": "Yashin-3.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Yashin-3"
             }
           },
           {
@@ -52,7 +58,9 @@
                 "file": "Khodorkovsky-1.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Khodorkovsky-1"
             }
           },
           {
@@ -64,7 +72,9 @@
                 "file": "Quantum-politics.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Quantum-politics"
             }
           },
           {
@@ -73,10 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Banksters.md",
+                "file": "ACF-1.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "ACF-1"
             }
           }
         ],
@@ -100,7 +112,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -115,7 +129,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -123,7 +139,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -146,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Banksters.md",
+                "file": "ACF-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +172,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ACF-1"
             }
           },
           {
@@ -163,10 +183,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Banksters.md",
+                "file": "ACF-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from ACF-1"
             }
           },
           {
@@ -177,7 +199,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -186,8 +210,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Banksters.md"
-              }
+                "file": "ACF-1.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of ACF-1"
             }
           }
         ]
@@ -210,8 +236,10 @@
   },
   "active": "477bc32b3049a1da",
   "lastOpenFiles": [
-    "Yashin-1.md",
     "Banksters.md",
+    "ACF-1.md",
+    "20241027130827.png",
+    "Yashin-1.md",
     "Quantum-politics.md",
     "Khodorkovsky-1.md",
     "20241003133852.png",
